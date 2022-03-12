@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+#notice {
+  color: green;
+}
+
+#error_explanation {
+  color: red;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+.pic {
+  width: 64px;
+}
